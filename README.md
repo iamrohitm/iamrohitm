@@ -1,21 +1,42 @@
 # Hi there! 👋  
-I'm **Rohit Mohite**, a Final Year Computer Engineering Student passionate about web development and data science.  
+I'm **Rohit Mohite** (`@iamrohitm`), a Final Year Computer Engineering Student passionate about crafting user-centric web applications and diving into data-driven projects.  
 
-## 🚀 Skills
+---
+
+## 🚀 Skills  
+- **Frontend Development**: React, HTML, CSS, JavaScript  
 - **Programming**: Java, Python  
-- **Web Development**: HTML, CSS, JavaScript, React  
 - **Data Science**: NLTK, Pandas, NumPy  
 
-## 🌟 Featured Projects
-- 🎵 [**Spotify Clone**](#): A sleek music streaming web app built with HTML & CSS  
-- 📊 [**Sentiment Analysis WebApp**](#): Analyzing user reviews using NLTK  
+---
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitmohite&show_icons=true&theme=radical)  
+## 🌟 Featured Projects  
+### React Development  
+1. 🔥 [**Fit Sphere**](#)  
+   A fitness tracking web app built with React, offering a seamless user interface for managing workouts, tracking goals, and improving health.  
 
-## 📫 Let's Connect
+2. ✏️ [**Quick Scribe**](#)  
+   A note-taking application powered by React, enabling users to jot down ideas, organize tasks, and stay productive.
+
+### Other Projects  
+3. 🎵 [**Spotify Clone**](#)  
+   A sleek music streaming web app built with HTML & CSS.  
+
+4. 📊 [**Sentiment Analysis WebApp**](#)  
+   A project analyzing user reviews using NLTK, showcasing data processing and sentiment analysis capabilities.
+
+---
+
+## 📊 GitHub Stats  
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamrohitm&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrohitm&layout=compact&theme=radical)  
+
+---
+
+## 📫 Let's Connect  
 - 💼 [LinkedIn](#)  
-- 🌐 Portfolio: [Coming Soon](#)  
+- 🌐 Portfolio: [Coming Soon]([#](https://www.linkedin.com/in/rohit-mohite-832792232/))  
+- ✉️ Email: [your-email@example.com](mailto:rohitmohite.in@gmail.com)  
 
 
 <!--
