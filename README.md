@@ -34,7 +34,7 @@ I'm **Rohit Mohite** (`@iamrohitm`), a Final Year Computer Engineering Student p
 ---
 
 ## 📫 Let's Connect  
-- 💼 [LinkedIn](#)  
+- 💼 [LinkedIn]([#](https://www.linkedin.com/in/rohit-mohite-832792232/))  
 - 🌐 Portfolio: [Coming Soon]([#](https://www.linkedin.com/in/rohit-mohite-832792232/))  
 - ✉️ Email: [rohitmohite@gmail.com](mailto:rohitmohite.in@gmail.com)  
 
