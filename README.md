@@ -19,7 +19,7 @@ I am **Rohit Mohite** (`@iamrohitm`), a Final Year Computer Engineering Student 
    A note-taking application powered by React, enabling users to jot down ideas, organize tasks, and stay productive.
 
 ### Other Projects  
-3. 🎵 [**Spotify Clone**](#)  
+3. 🎵 [**Spotify Clone**](https://github.com/iamrohitm/Spotify-Clone)  
    A sleek music streaming web app built with HTML & CSS.  
 
 4. 📊 [**Sentiment Analysis WebApp**](#)  
