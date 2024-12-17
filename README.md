@@ -12,7 +12,7 @@ I am **Rohit Mohite** (`@iamrohitm`), a Final Year Computer Engineering Student 
 
 ## 🌟 Featured Projects  
 ### React Development  
-1. 🔥 [**Fit Sphere**](#)  
+1. 🔥 [**Fit Sphere**](https://github.com/iamrohitm/Fit-Sphere)  
    A fitness tracking web app built with React, offering a seamless user interface for managing workouts, tracking goals, and improving health.  
 
 2. ✏️ [**Quick Scribe**](#)  
