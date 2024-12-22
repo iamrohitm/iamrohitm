@@ -1,5 +1,7 @@
 # Hi there! 👋  
-I am **Rohit Mohite** (`@iamrohitm`), a Final Year Computer Engineering Student passionate about crafting user centric web applications and diving into data driven projects.  
+I am **Rohit Mohite** (`@iamrohitm`), a Final Year Computer Engineering Student passionate about crafting user-centric web applications and diving into data-driven projects.  
+
+![Profile Views](https://komarev.com/ghpvc/?username=iamrohitm&color=blueviolet&style=flat)  
 
 ---
 
@@ -36,21 +38,4 @@ I am **Rohit Mohite** (`@iamrohitm`), a Final Year Computer Engineering Student 
 ## 📫 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rohit-mohite-832792232/)
 - 🌐 Portfolio: [Coming Soon](#)  
-- ✉️ Email: [rohitmohite@gmail.com.com](mailto:rohitmohite@gmail.com)  
-
-
-
-<!--
-**iamrohitm/iamrohitm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✉️ Email: [rohitmohite@gmail.com](mailto:rohitmohite@gmail.com)
