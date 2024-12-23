@@ -1,5 +1,5 @@
 # Hi there! 👋  
-I am **Rohit Mohite** (`@iamrohitm`), a Final Year Computer Engineering Student passionate about crafting user-centric web applications and diving into data-driven projects.  
+I am **Rohit Mohite** (`@iamrohitm`), a Final Year Computer Engineering Student passionate about crafting user-centric web applications and diving into data-driven projects..
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iamrohitm&color=blueviolet&style=flat)  
 
