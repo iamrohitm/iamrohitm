@@ -22,7 +22,7 @@ I am **Rohit Mohite**, a Final Year Computer Engineering Student passionate abou
 
 ### Other Projects  
 3. 🎵 [**Spotify Clone**](https://github.com/iamrohitm/Spotify-Clone)  
-   A sleek music streaming web app built with HTML & CSS.  
+   A sleek music streaming web app built with HTML & CSS.. 
 
 4. 📊 [**Sentiment Analysis WebApp**](https://github.com/iamrohitm/Hotel-Review-Sentiment-Analysis-WebApp-)  
    A project analyzing user reviews using NLTK, showcasing data processing and sentiment analysis capabilities.
