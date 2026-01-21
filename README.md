@@ -37,5 +37,5 @@ I am **Rohit Mohite**, a Final Year Computer Engineering Student passionate abou
 
 ## 📫 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rohit-mohite-832792232/)
-- 🌐 Portfolio: [[Coming Soon](#)...](https://rohitmohite.netlify.app/)
+- 🌐 [Portfolio:](https://rohitmohite.netlify.app/)
 - ✉️ Email: [rohitmohite@gmail.com](mailto:rohitmohite@gmail.com)
