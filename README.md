@@ -6,7 +6,8 @@ I am **Rohit Mohite**, a Final Year Computer Engineering Student passionate abou
 ---
 
 ## 🚀 Skills  
-- **Frontend Development**: React Js, HTML5, CSS, JavaScript  
+- **Frontend Development**: React Js, HTML5, CSS, JavaScript
+- **Backebd Development**: Node js, Express Js
 - **Programming**: Java, Python  
 - **Data Science**: Python, NLTK, Pandas, NumPy  
 
