@@ -32,8 +32,8 @@ I am **Rohit Mohite**, a Computer Engineering Graduate passionate about crafting
 ---
 
 ## 📊 GitHub Stats  
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamrohitm&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrohitm&layout=compact&theme=radical)  
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamrohitm&show_icons=true&theme=radical) .
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrohitm&layout=compact&theme=radical) .
 
 ---
 
