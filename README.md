@@ -1,7 +1,7 @@
 # Hi there! 👋  
 I am **Rohit Mohite**, a Computer Engineering Graduate passionate about crafting user-centric web applications and diving into data-driven projects..
 
-![Profile Views](https://komarev.com/ghpvc/?username=iamrohitm&color=blueviolet&style=flat).
+![Profile Views](https://komarev.com/ghpvc/?username=iamrohitm&color=blueviolet&style=flat) .
 
 ---
 
