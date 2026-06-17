@@ -6,7 +6,7 @@ I am **Rohit Mohite**, a Computer Engineering Graduate passionate about crafting
 ---
 
 ## 🚀 Skills  
-- **Frontend Development**: React Js, HTML5, CSS, JavaScript
+- **Frontend Development**: React Js, HTML5, CSS, JavaScript, Redux
 - **Backebd Development**: Node js, Express Js
 - **Database**: MYSQL, MongoDB 
 - **Programming**: Java, Python  
@@ -21,6 +21,8 @@ I am **Rohit Mohite**, a Computer Engineering Graduate passionate about crafting
 
 2. ✏️ [**Quick Scribe**](#)  
    A note-taking application powered by React, enabling users to jot down ideas, organize tasks, and stay productive.
+
+   ...
 
 ### Other Projects  
 3. 🎵 [**Spotify Clone**](https://github.com/iamrohitm/Spotify-Clone)  
