@@ -8,9 +8,9 @@ I am **Rohit Mohite**, a Computer Engineering Graduate passionate about crafting
 ## 🚀 Skills  
 - **Frontend Development**: React Js, HTML5, CSS, JavaScript, Redux
 - **Backebd Development**: Node js, Express Js
-- **Database**: MYSQL, MongoDB 
+- **Database**: MYSQL, MongoDB, Firebase
 - **Programming**: Java, Python  
-- **Data Science**: Python, NLTK, Pandas, NumPy  
+- **Data Science**: Python, NumPy  
 
 ---
 
