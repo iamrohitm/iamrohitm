@@ -1,135 +1,317 @@
-# Hi, I'm Rohit Mohite 👋
+<div align="center">
 
-### Full Stack Developer | MERN Stack | Building Practical Web Applications
+# 👋 Hey, I'm Rohit Mohite
 
-I'm a Computer Engineering graduate and Full Stack Developer focused on building **scalable, user-friendly web applications** with modern JavaScript technologies.
+### `Full Stack Developer` · `MERN Stack` · `Problem Solver`
 
-I enjoy turning ideas into working products — from designing REST APIs and database models to building responsive React interfaces, implementing authentication, and deploying applications to the cloud.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+full-stack+web+applications;Turning+ideas+into+real+products;Learning+backend+architecture+%26+system+design;Writing+clean%2C+maintainable+code" alt="Typing SVG" />
 
-Currently, I'm strengthening my skills in **full-stack development, backend architecture, databases, and problem solving** while building projects that reflect real-world development practices.
+<br/>
+
+<a href="https://github.com/iamrohitm">
+  <img src="https://img.shields.io/github/followers/iamrohitm?label=Followers&style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/iamrohitm?tab=repositories">
+  <img src="https://img.shields.io/github/stars/iamrohitm?label=Stars&style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/rohit-mohite-832792232/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 🚀 What I Work With
+## 👨‍💻 About Me
+
+I'm a **Computer Engineering graduate and Full Stack Developer** who enjoys building practical web applications and understanding what happens behind the UI.
+
+My main focus is the **MERN stack**, with a growing interest in backend engineering, application architecture, databases, caching, authentication, and production-ready development.
+
+```javascript
+const rohit = {
+    role: "Full Stack Developer",
+    primaryStack: "MERN",
+    focus: [
+        "Full Stack Development",
+        "Backend Engineering",
+        "REST APIs",
+        "Database Design",
+        "Authentication & Authorization"
+    ],
+    currentlyLearning: [
+        "TypeScript",
+        "Advanced Node.js",
+        "System Design",
+        "Data Structures & Algorithms"
+    ],
+    mindset: "Build → Understand → Improve"
+};
+```
+
+---
+
+# 🧰 Tech Stack
 
 ### Frontend
 
-`React.js` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `Ant Design` `Redux` `React Router`
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
+</p>
 
 ### Backend
 
-`Node.js` `Express.js` `REST APIs` `JWT` `bcrypt` `MVC` `Middleware`
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</p>
 
-### Databases & Storage
+### Databases & Services
 
-`MongoDB` `Mongoose` `MySQL` `Firebase` `Redis`
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
 
-### Programming & Problem Solving
+### Languages & Tools
 
-`JavaScript` `Java` `Python` `SQL` `Data Structures & Algorithms`
-
-### Tools & Platforms
-
-`Git` `GitHub` `Postman` `VS Code` `Vite` `Vercel` `MongoDB Atlas`
-
----
-
-## 🛠️ Featured Projects
-
-### ✍️ GenBlog — Full Stack Blogging Platform
-
-A full-stack blogging platform built to simulate a real-world content management system.
-
-**Highlights:**
-
-* 🔐 JWT-based authentication with separate **Admin & User workflows**
-* 👤 Role-based authorization and protected routes
-* 📝 Complete blog creation and management workflow
-* ✅ Admin approval and publishing system
-* 🖼️ Image upload and optimization using ImageKit
-* ⚡ Redis caching for frequently accessed blog data
-* 🔎 Blog search and filtering capabilities
-* 🗄️ MongoDB + Mongoose for data management
-* 🌐 RESTful backend APIs with Express.js
-* 🚀 Deployed using Vercel and MongoDB Atlas
-
-🔗 **Repository:** [GenBlog](https://github.com/iamrohitm)
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
 ---
 
-### 💰 FinFlow — Personal Finance Management
+# 🚀 Featured Projects
 
-A React-based personal finance application designed to help users manage and visualize their financial data.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Highlights:**
+## ✍️ GenBlog
 
-* 📊 Expense and income tracking
-* 📈 Financial data visualization
+**Full Stack Blogging Platform**
+
+A production-oriented blogging platform with separate user and admin workflows.
+
+### What I implemented
+
+* 🔐 JWT authentication
+* 👥 Role-based authorization
+* 🛡️ Protected routes
+* 📝 Blog CRUD operations
+* ✅ Admin approval & publishing workflow
+* 🖼️ ImageKit image upload & optimization
+* ⚡ Redis caching
+* 🗄️ MongoDB + Mongoose
+* 🌐 RESTful APIs
+* 🚀 Vercel deployment
+
+**Stack**
+
+`React` `Node.js` `Express` `MongoDB` `JWT` `Redis` `ImageKit`
+
+**[View Repository →](YOUR_GENBLOG_REPOSITORY_URL)**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💰 FinFlow
+
+**Personal Finance Management**
+
+A modern React application for managing personal financial data and visualizing income and expenses.
+
+### What I implemented
+
 * 🔐 Firebase Authentication
-* 📥 CSV data import
-* 🧭 React Router based navigation
-* 🎨 Responsive UI with modern component libraries
-* 🚀 Deployed on Vercel
+* 📊 Financial tracking
+* 📈 Data visualization
+* 📥 CSV import
+* 🧭 React Router
+* 🎨 Responsive UI
+* 🧩 Reusable React components
+* 🚀 Vercel deployment
 
-🔗 **Live:** https://finflowx.vercel.app
+**Stack**
 
----
+`React` `Firebase` `JavaScript` `Tailwind` `Ant Design`
 
-### 📝 GenBlog / Other Full Stack Projects
+**[Live Demo →](https://finflowx.vercel.app)**
 
-I'm continuously building and improving projects around:
+</td>
+</tr>
 
-* Full-stack CRUD applications
-* Authentication & authorization
-* REST API design
-* Database architecture
-* Caching
-* Third-party API integrations
-* Deployment & production configuration
+<tr>
+<td width="50%" valign="top">
 
-> I prefer building projects that solve practical problems rather than simply reproducing tutorials.
+## 🏋️ Fit Sphere
 
----
+**Fitness Tracking Application**
 
-## 🧠 Currently Learning & Improving
+A React-based fitness application focused on providing an interactive interface for managing workouts, goals, and fitness activities.
 
-* ⚙️ Advanced Node.js & Express.js
-* 🗄️ Database design and query optimization
-* ⚡ Redis & caching strategies
-* 🔐 Application security
-* 🧩 Data Structures & Algorithms
-* 🟦 TypeScript
-* 🏗️ Scalable backend architecture
-* ☁️ Deployment & production practices
+**Stack**
 
----
+`React` `JavaScript` `HTML` `CSS`
 
-## 📌 My Development Philosophy
+**[View Repository →](https://github.com/iamrohitm/Fit-Sphere)**
 
-> **Build it. Understand it. Break it. Fix it. Improve it.**
+</td>
 
-I'm particularly interested in understanding **why** something works rather than just making it work.
+<td width="50%" valign="top">
 
-Whether it's authentication, database queries, API design, caching, or React state management, I try to understand the underlying concepts and apply them in practical projects.
+## 🎵 Spotify Clone
 
----
+**Music Streaming UI**
 
-## 📈 What I'm Working Toward
+A frontend project recreating the core visual experience of a music streaming platform using responsive HTML and CSS.
 
-My goal is to become a strong **Full Stack Software Developer** capable of taking a feature from:
+**Stack**
 
-**Idea → Architecture → Database → API → Frontend → Testing → Deployment**
+`HTML5` `CSS3`
 
-and building it with clean, maintainable, and production-oriented code.
+**[View Repository →](https://github.com/iamrohitm/Spotify-Clone)**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Let's Connect
+# 🧠 What I Care About
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/rohit-mohite-832792232/)
-* 🌐 [Portfolio](https://rohitmohite.netlify.app/)
-* 📧 [Email](mailto:rohitmohite@gmail.com)
+<table>
+<tr>
+<td>🔐 <b>Authentication</b><br/>JWT, Firebase Auth, bcrypt, protected routes & role-based access</td>
+<td>⚡ <b>Performance</b><br/>Caching, optimized APIs and efficient database access</td>
+</tr>
+<tr>
+<td>🏗️ <b>Architecture</b><br/>MVC, REST APIs, middleware and clean project structure</td>
+<td>🗄️ <b>Data</b><br/>MongoDB, MySQL, Mongoose and database modeling</td>
+</tr>
+<tr>
+<td>🛡️ <b>Security</b><br/>Authorization, CORS, environment variables and secure API design</td>
+<td>🚀 <b>Deployment</b><br/>Taking applications from local development to production</td>
+</tr>
+</table>
 
 ---
 
-### ⭐ If you find something interesting here, feel free to explore my repositories!
+# 📚 Currently Learning
+
+```text
+TypeScript              ███████████████░░░░░
+Advanced Node.js        ██████████████░░░░░░
+Data Structures         ███████████████░░░░░
+Backend Architecture    ████████████░░░░░░░░
+System Design           ████████░░░░░░░░░░░░
+Application Security    ██████████░░░░░░░░░░
+```
+
+I'm especially interested in moving beyond simply **building features** and becoming better at understanding:
+
+**Why a system is designed a certain way → How it behaves at scale → Where it can fail → How to make it better.**
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrohitm&theme=github-compact&hide_border=true" width="95%"/>
+
+</div>
+
+> I intentionally keep GitHub statistics secondary. Projects, code quality, consistency, and what I learn from building are more important to me than a number on a profile.
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=iamrohitm&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+# 🎯 My Developer Journey
+
+```text
+Computer Engineering
+        │
+        ▼
+Frontend Development
+        │
+        ▼
+React & Modern JavaScript
+        │
+        ▼
+Node.js + Express + REST APIs
+        │
+        ▼
+MongoDB + Authentication
+        │
+        ▼
+Full Stack Applications
+        │
+        ▼
+Caching + Security + Deployment
+        │
+        ▼
+        🚀
+Production-Oriented Full Stack Development
+```
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rohit-mohite-832792232/">
+<img src="https://img.shields.io/badge/LinkedIn-Rohit_Mohite-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://rohitmohite.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:rohitmohite@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/iamrohitm">
+<img src="https://img.shields.io/badge/GitHub-iamrohitm-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Build things. Break things. Understand things. Build them better.
+
+**Thanks for stopping by! ⭐**
+
+</div>
