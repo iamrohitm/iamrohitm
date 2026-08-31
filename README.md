@@ -1,45 +1,135 @@
-# Hi there! 👋  
-I am **Rohit Mohite**, a Computer Engineering Graduate passionate about crafting user-centric web applications and diving into data-driven projects..
+# Hi, I'm Rohit Mohite 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=iamrohitm&color=blueviolet&style=flat) .
+### Full Stack Developer | MERN Stack | Building Practical Web Applications
 
----
+I'm a Computer Engineering graduate and Full Stack Developer focused on building **scalable, user-friendly web applications** with modern JavaScript technologies.
 
-## 🚀 Skills  
-- **Frontend Development**: React Js, HTML5, CSS, JavaScript, Redux
-- **Backebd Development**: Node js, Express Js
-- **Database**: MYSQL, MongoDB, Firebase
-- **Programming**: Java, Python  
-- **Data Science**: Python, NumPy  
+I enjoy turning ideas into working products — from designing REST APIs and database models to building responsive React interfaces, implementing authentication, and deploying applications to the cloud.
+
+Currently, I'm strengthening my skills in **full-stack development, backend architecture, databases, and problem solving** while building projects that reflect real-world development practices.
 
 ---
 
-## 🌟 Featured Projects  
-### React Development  
-1. 🔥 [**Fit Sphere**](https://github.com/iamrohitm/Fit-Sphere)  
-   A fitness tracking web app built with React, offering a seamless user interface for managing workouts, tracking goals, and improving health.  
+## 🚀 What I Work With
 
-2. ✏️ [**Quick Scribe**](#)  
-   A note-taking application powered by React, enabling users to jot down ideas, organize tasks, and stay productive.
+### Frontend
 
-   ...
+`React.js` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `Ant Design` `Redux` `React Router`
 
-### Other Projects  
-3. 🎵 [**Spotify Clone**](https://github.com/iamrohitm/Spotify-Clone)  
-   A sleek music streaming web app built with HTML & CSS.
+### Backend
 
-4. 📊 [**Sentiment Analysis WebApp**](https://github.com/iamrohitm/Hotel-Review-Sentiment-Analysis-WebApp-)  
-   A project analyzing user reviews using NLTK, showcasing data processing and sentiment analysis capabilities.
+`Node.js` `Express.js` `REST APIs` `JWT` `bcrypt` `MVC` `Middleware`
+
+### Databases & Storage
+
+`MongoDB` `Mongoose` `MySQL` `Firebase` `Redis`
+
+### Programming & Problem Solving
+
+`JavaScript` `Java` `Python` `SQL` `Data Structures & Algorithms`
+
+### Tools & Platforms
+
+`Git` `GitHub` `Postman` `VS Code` `Vite` `Vercel` `MongoDB Atlas`
 
 ---
 
-## 📊 GitHub Stats  
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamrohitm&show_icons=true&theme=radical) .
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrohitm&layout=compact&theme=radical) .
+## 🛠️ Featured Projects
+
+### ✍️ GenBlog — Full Stack Blogging Platform
+
+A full-stack blogging platform built to simulate a real-world content management system.
+
+**Highlights:**
+
+* 🔐 JWT-based authentication with separate **Admin & User workflows**
+* 👤 Role-based authorization and protected routes
+* 📝 Complete blog creation and management workflow
+* ✅ Admin approval and publishing system
+* 🖼️ Image upload and optimization using ImageKit
+* ⚡ Redis caching for frequently accessed blog data
+* 🔎 Blog search and filtering capabilities
+* 🗄️ MongoDB + Mongoose for data management
+* 🌐 RESTful backend APIs with Express.js
+* 🚀 Deployed using Vercel and MongoDB Atlas
+
+🔗 **Repository:** [GenBlog](https://github.com/iamrohitm)
 
 ---
 
-## 📫 Let's Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rohit-mohite-832792232/)
-- 🌐 [Portfolio](https://rohitmohite.netlify.app/)
-- ✉️ [rohitmohite@gmail.com](mailto:rohitmohite@gmail.com)
+### 💰 FinFlow — Personal Finance Management
+
+A React-based personal finance application designed to help users manage and visualize their financial data.
+
+**Highlights:**
+
+* 📊 Expense and income tracking
+* 📈 Financial data visualization
+* 🔐 Firebase Authentication
+* 📥 CSV data import
+* 🧭 React Router based navigation
+* 🎨 Responsive UI with modern component libraries
+* 🚀 Deployed on Vercel
+
+🔗 **Live:** https://finflowx.vercel.app
+
+---
+
+### 📝 GenBlog / Other Full Stack Projects
+
+I'm continuously building and improving projects around:
+
+* Full-stack CRUD applications
+* Authentication & authorization
+* REST API design
+* Database architecture
+* Caching
+* Third-party API integrations
+* Deployment & production configuration
+
+> I prefer building projects that solve practical problems rather than simply reproducing tutorials.
+
+---
+
+## 🧠 Currently Learning & Improving
+
+* ⚙️ Advanced Node.js & Express.js
+* 🗄️ Database design and query optimization
+* ⚡ Redis & caching strategies
+* 🔐 Application security
+* 🧩 Data Structures & Algorithms
+* 🟦 TypeScript
+* 🏗️ Scalable backend architecture
+* ☁️ Deployment & production practices
+
+---
+
+## 📌 My Development Philosophy
+
+> **Build it. Understand it. Break it. Fix it. Improve it.**
+
+I'm particularly interested in understanding **why** something works rather than just making it work.
+
+Whether it's authentication, database queries, API design, caching, or React state management, I try to understand the underlying concepts and apply them in practical projects.
+
+---
+
+## 📈 What I'm Working Toward
+
+My goal is to become a strong **Full Stack Software Developer** capable of taking a feature from:
+
+**Idea → Architecture → Database → API → Frontend → Testing → Deployment**
+
+and building it with clean, maintainable, and production-oriented code.
+
+---
+
+## 🤝 Let's Connect
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/rohit-mohite-832792232/)
+* 🌐 [Portfolio](https://rohitmohite.netlify.app/)
+* 📧 [Email](mailto:rohitmohite@gmail.com)
+
+---
+
+### ⭐ If you find something interesting here, feel free to explore my repositories!
