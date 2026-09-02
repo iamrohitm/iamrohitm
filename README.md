@@ -126,8 +126,8 @@ A production-oriented blogging platform with separate user and admin workflows.
 **Stack**
 
 `React` `Node.js` `Express` `MongoDB` `JWT` `Redis` `ImageKit`
-
-**[View Repository →](YOUR_GENBLOG_REPOSITORY_URL)**
+**[Live Demo →](https://genblog.vercel.app/)**
+**[View Repository →](https://github.com/iamrohitm/genblog)**
 
 </td>
 
@@ -155,6 +155,7 @@ A modern React application for managing personal financial data and visualizing 
 `React` `Firebase` `JavaScript` `Tailwind` `Ant Design`
 
 **[Live Demo →](https://finflowx.vercel.app)**
+**[View Repository →](https://github.com/iamrohitm/finflow)**
 
 </td>
 </tr>
