@@ -161,37 +161,7 @@ A modern React application for managing personal financial data and visualizing 
 </tr>
 
 <tr>
-<td width="50%" valign="top">
 
-## 🏋️ Fit Sphere
-
-**Fitness Tracking Application**
-
-A React-based fitness application focused on providing an interactive interface for managing workouts, goals, and fitness activities.
-
-**Stack**
-
-`React` `JavaScript` `HTML` `CSS`
-
-**[View Repository →](https://github.com/iamrohitm/Fit-Sphere)**
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🎵 Spotify Clone
-
-**Music Streaming UI**
-
-A frontend project recreating the core visual experience of a music streaming platform using responsive HTML and CSS.
-
-**Stack**
-
-`HTML5` `CSS3`
-
-**[View Repository →](https://github.com/iamrohitm/Spotify-Clone)**
-
-</td>
 </tr>
 </table>
 
